@@ -1,0 +1,9 @@
+{
+    "plugins": [
+    ],
+    "pluginsConfig": {
+      "theme-default": {
+        "showLevel": true
+      }
+    }
+}
